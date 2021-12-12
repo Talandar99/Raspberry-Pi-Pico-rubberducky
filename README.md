@@ -3,6 +3,7 @@
 ## Sources:
 - https://github.com/dbisu/pico-ducky
 - https://github.com/adafruit/circuitpython/releases
+- https://github.com/hak5/usbrubberducky-payloads
 
 ## Microcontroler:
 
