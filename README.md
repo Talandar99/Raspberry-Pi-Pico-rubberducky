@@ -1,2 +1,2 @@
-#How to run pico rubber ducky
+# How to run pico rubber ducky
 
