@@ -15,6 +15,4 @@
 - open adafruit_hid folder and drop keyboard.mpy into lib folder inside pico memory
 - drop duckyinpython.py int pico memory and rename it to "code.py"
 - open payloads folder and drop payload.dd into pico memory 
-- scrip woll run instantly
-
-
+- script will run instantly
