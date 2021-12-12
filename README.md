@@ -1,4 +1,4 @@
-# Pico rubber ducky (everything needed to run)
+# Pico rubber ducky (everything needed to run in one place)
 
 ## Sources:
 - https://github.com/dbisu/pico-ducky
