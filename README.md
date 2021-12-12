@@ -4,6 +4,7 @@
 - https://github.com/dbisu/pico-ducky
 - https://github.com/adafruit/circuitpython/releases
 - https://github.com/hak5/usbrubberducky-payloads
+- https://www.stlfinder.com/model/raspberry-pi-pico-case-Ou9bwDtG/4156359/
 
 ## Microcontroler:
 
