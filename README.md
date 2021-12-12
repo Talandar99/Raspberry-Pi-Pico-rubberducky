@@ -1,7 +1,8 @@
 # Pico rubber ducky (everything needed to run)
 
 ## Sources:
-
+- https://github.com/dbisu/pico-ducky
+- https://github.com/adafruit/circuitpython/releases
 
 ## Microcontroler:
 
